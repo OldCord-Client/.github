@@ -2,3 +2,4 @@
 *Bring back **old** discord to life.*
 
 ### Join our discord *server*: https://discord.gg/fJP397CYbp
+### Install our client: https://github.com/OldCord-Client/2018Cord
